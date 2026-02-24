@@ -1,0 +1,43 @@
+#titre_principal{
+    color:blue;
+    text-align:center;
+    font-size:32px;
+}
+
+#liens a{
+    color:white;
+    background-color: green;
+    text-decoration: none;
+}
+
+#liens a:hover{
+    color:black;
+}
+
+#div1{
+    border:20px solid black;
+    background-color: yellowgreen;
+    padding:20px
+}
+
+#div2{
+    border:20px solid black;
+    background-color: red;
+    padding:20px;
+
+}
+
+#image_tunisie{
+    width:600px;
+}
+
+.boutons{
+    color:blue;
+    background-color: grey;
+}
+
+.boutons:active{
+    color:orange;
+}
+
+
